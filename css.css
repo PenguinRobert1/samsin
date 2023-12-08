@@ -2,7 +2,7 @@ body {
     background: aqua;
   }
     p {
-      color:  #feed02;
+      color: lightblue;
     }
     h1 {
       font-weight: bold;
@@ -26,11 +26,11 @@ body {
         background-color: aqua;
       }
       il{
-color: #17dd09;
+color: lightblue;
 
       }
       .notaddingsoon{
-        color: #ff3d3d;
+        color: blue;
       }
 
       input{
