@@ -1,5 +1,5 @@
 body {
-    background: #dd0909;
+    background: aqua;
   }
     p {
       color:  #feed02;
@@ -14,7 +14,7 @@ body {
         color: hotpink;
       }
       a:link, a:visited {
-        background-color:  rgb(10, 131, 18);
+        background-color:  aqua;
         color: white;
         padding: 14px 25px;
         text-align: center;
@@ -23,7 +23,7 @@ body {
       }
       
       a:hover, a:active {
-        background-color: rgb(106, 255, 89);
+        background-color: aqua;
       }
       il{
 color: #17dd09;
