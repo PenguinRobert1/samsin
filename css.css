@@ -34,7 +34,7 @@ color: #17dd09;
       }
 
       input{
-        background-color:rgb(10, 131, 18);
+        background-color:aqua;
         color: #ffffff ;
         padding: 14px 25px;
         text-align: center;
@@ -42,10 +42,10 @@ color: #17dd09;
         display: inline-block;
       }
       input:hover input:active{
-        background-color: rgb(106, 255, 89);
+        background-color:aqua;
       }
       input:link, input:visited {
-        background-color:  rgb(29, 206, 41);
+        background-color:  aqua;
         color: white;
         padding: 14px 25px;
         text-align: center;
